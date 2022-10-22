@@ -1,5 +1,5 @@
 body {
-    background: #1e555c;
+    background: #6cba78;
     color: white;
     font-size: 30px;
     text-align: center;
@@ -33,7 +33,7 @@ body {
     width: 40px;
   }
   body #container .timer {
-    border: 7px solid #13353a;
+    border: 7px solid black;
     margin: 20px auto 10px auto;
     width: 270px;
     height: 160px;
@@ -71,14 +71,14 @@ body {
     font-family: Share Tech Mono, sans;
     margin-top: 15px;
     font-size: 14px;
-    color: #a50d0d;
+    color: #d7c6c6;
   }
   .author a {
     text-decoration: none;
-    color: #00264d;
+    color: #4b3d3e;
     line-height: 26px;
   }
   .author a:hover {
-    color: white;
+    color: #d7c6c6;
   }
   
